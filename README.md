@@ -1,3 +1,5 @@
+> **Implemented application:** See [IMPLEMENTATION.md](IMPLEMENTATION.md) for setup, commands, and deployment, and [IMPLEMENTATION_EVALUATION.md](IMPLEMENTATION_EVALUATION.md) for verified results.
+
 # Complete Setup Guide: Todo App Development with GitHub Copilot
 
 This walkthrough will guide you from zero to running the Todo App with GitHub Copilot assistance.
